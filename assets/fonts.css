@@ -1,0 +1,32 @@
+/* ================ FONT TTF ================ */
+@font-face {
+    font-family: "OpenSans";
+    src: url(fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: "Digit";
+    src: url(fonts/ds_digital/DS-DIGIT.ttf);
+}
+/********** ASAP **********/
+/***Regular***/
+@font-face {
+    font-family: "Asap";
+    src: url(fonts/Asap/Asap-Regular.ttf);
+}
+/***Bold***/
+@font-face {
+    font-family: "Asap_bold";
+    src: url(fonts/Asap/Asap-Bold.ttf);
+    font-weight: bold;
+}
+/***Medium***/
+@font-face {
+    font-family: "Asap_medium";
+    src: url(fonts/Asap/Asap-Medium.ttf);
+}
+/***Italic***/
+@font-face {
+    font-family: "Asap_italic";
+    src: url(fonts/Asap/Asap-Italic.ttf);
+    font-style: italic;
+}
